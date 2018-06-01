@@ -5,4 +5,4 @@
 
 ## Run me
 
- `docker run -v <path-to>/allure:/allure rizzza/allure-report-generator`
+ `docker run -v <path-to-allure>:/allure rizzza/allure-report-generator`

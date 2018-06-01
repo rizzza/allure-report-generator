@@ -20,4 +20,4 @@ RUN cd \
 
 VOLUME ["/allure"]
 WORKDIR /allure
-CMD allure generate /allure
+CMD allure generate --clean /allure
